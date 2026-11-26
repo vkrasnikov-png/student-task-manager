@@ -1,0 +1,17 @@
+[
+  {
+    "id": "hollow-knight",
+    "title": "Hollow Knight",
+    "description": "Дослідження підземного королівства."
+  },
+  {
+    "id": "celeste",
+    "title": "Celeste",
+    "description": "Платформер про сходження на гору."
+  },
+  {
+    "id": "witcher-3",
+    "title": "The Witcher 3: Wild Hunt",
+    "description": "Фентезійна рольова гра про пригоди мисливця на чудовиськ."
+  }
+]
