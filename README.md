@@ -301,3 +301,5 @@ if ($readme -notmatch "activity-diagram\.md") {
     Add-Content -Encoding UTF8 "README.md" "`n## Activity-діаграма`n`nКлючовий процес програмного продукту описано у файлі [docs/activity-diagram.md](docs/activity-diagram.md)."
 }```markdown
 ## Class-діаграма
+
+Основні сутності програмного продукту та їхні зв’язки описані у файлі [docs/class-diagram.md](docs/class-diagram.md).
