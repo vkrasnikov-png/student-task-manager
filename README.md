@@ -94,3 +94,10 @@ Agile.
 ## User stories
 
 Потреби користувачів і критерії приймання описані у файлі [docs/user-stories.md](docs/user-stories.md).
+## Use-case модель
+
+Актори, основні випадки використання та сценарій описані у файлі [docs/use-case.md](docs/use-case.md).
+
+## Activity-діаграма
+
+Ключовий процес програмного продукту описано у файлі [docs/activity-diagram.md](docs/activity-diagram.md).
