@@ -1,3 +1,6 @@
+git pull
+
+@'
 # Спрощена class-діаграма
 
 ## Загальна інформація
@@ -44,3 +47,4 @@ classDiagram
 
     Student "1" --> "*" Task
     Subject "1" --> "*" Task
+    
