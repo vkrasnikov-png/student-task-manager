@@ -94,3 +94,14 @@ If you are developing a production application, we recommend using TypeScript wi
 ## Class-діаграма
 
 Основні сутності програмного продукту та їхні зв’язки описані у файлі [docs/class-diagram.md](docs/class-diagram.md).
+```markdown
+
+## Ескізи інтерфейсу
+
+Для продукту створено ескізи основних екранів:
+
+- список завдань;
+- створення завдання;
+- перегляд завдання.
+
+Детальний опис, схему переходів і зображення розміщено у файлі [docs/screen-sketches.md](docs/screen-sketches.md).
