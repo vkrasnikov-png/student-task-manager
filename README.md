@@ -91,3 +91,6 @@ Agile.
 ## Вимоги
 
 [Переглянути вимоги до продукту](docs/requirements.md).
+## User stories
+
+Потреби користувачів і критерії приймання описані у файлі [docs/user-stories.md](docs/user-stories.md).
