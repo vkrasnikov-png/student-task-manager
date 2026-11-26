@@ -88,3 +88,6 @@ Agile.
 
 Детальний опис програмного продукту розташований у файлі
 [docs/product-description.md](docs/product-description.md).
+## Вимоги
+
+[Переглянути вимоги до продукту](docs/requirements.md).
