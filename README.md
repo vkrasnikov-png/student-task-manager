@@ -101,3 +101,6 @@ Agile.
 ## Activity-діаграма
 
 Ключовий процес програмного продукту описано у файлі [docs/activity-diagram.md](docs/activity-diagram.md).
+## Class-діаграма
+
+Основні сутності програмного продукту та їхні зв’язки описані у файлі [docs/class-diagram.md](docs/class-diagram.md).
